@@ -6,4 +6,4 @@ let accountid; //undefined
 
 console.log("id");
 
-console.table([name,id,city,number,accountid]); //prints an index(0 to n-1) vs values table
+console.table([name,id,city,number,accountid]); //prints a table of index(0 to n-1) vs values 
